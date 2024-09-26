@@ -1,0 +1,12 @@
+Before getting started, install grasshopper app.
+
+---------------------------------------------------------------------------------------------
+1. download and install python. https://www.python.org/ftp/python/3.11.8/python-3.11.8-amd64.exe
+* MUST click checkbox for env path
+2. copy autograsshopper folder to C: drive.
+3. run 'bash.bat' in it.
+4. create shortcut of auto-grasshopper.cmd to desktop screen
+5. press WIN+R, input 'shell:startup' and click ok. copy created shortcut(auto-grasshopper.cmd) to startup folder
+
+---------------------------------------------------------------------------------------------
+6. run auto-grasshopper.cmd shortcut
